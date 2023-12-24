@@ -117,5 +117,80 @@
     https://arxiv.org/pdf/2310.01714.pdf
 
 
+## LLM inconsistent with humans
+
+1. Large Language Models Fail on Trivial Alterations to Theory-of-Mind Tasks
+
+   https://arxiv.org/abs/2302.08399
+
+2. Large Language Models Can Be Easily Distracted by Irrelevant Context
+
+   https://arxiv.org/abs/2302.00093
+
+   容易被无关信息打扰
+
+3. LLMs cannot find reasoning errors, but can correct them!
+
+   https://arxiv.org/pdf/2311.08516.pdf
+
+4. Large language models cannot self-correct reasoning yet
+
+   https://arxiv.org/pdf/2310.01798.pdf
+
+5. Do LLMs exhibit human-like response biases? A case study in survey design
+
+   https://arxiv.org/pdf/2311.04076.pdf
+   
+6. The Reversal Curse: LLMs trained on "A is B" fail to learn "B is A"
+
+   https://arxiv.org/abs/2309.12288
+
+7. It's Not Easy Being Wrong: Evaluating Process of Elimination Reasoning in Large Language Models
+
+   https://arxiv.org/abs/2311.07532
+
+   知道正确答案，无法选出错误答案
+
+8. Let there be a clock on the beach: Reducing Object Hallucination in Image Captioning
+
+   https://openaccess.thecvf.com/content/WACV2022/html/Biten_Let_There_Be_a_Clock_on_the_Beach_Reducing_Object_WACV_2022_paper.html
+
+   LVLMs are sensitive to additional contextual information.
+
+9. LARGE LANGUAGE MODELS ARE NOT ROBUST MULTIPLE CHOICE SELECTORS
+
+    https://openreview.net/pdf?id=shr9PXz7T0
+
+   对选择题放各个选项有bias
+
+10. Multilingual Large Language Models Are Not (Yet) Code-Switchers
+
+    https://arxiv.org/pdf/2305.14235.pdf
+
+    不能multilingual
+
+11. Prompting is not a substitute for probability measurements in large language models
+
+    https://arxiv.org/pdf/2305.13264.pdf
+
+    internal和external 的probability不一致
+
+12. Conceptual structure coheres in human cognition but not in large language models
+
+    https://arxiv.org/abs/2304.02754
+
+    difference between LLMs and human cognition in Conceptual structure
+
+13. Cognitive Dissonance: Why Do Language Model Outputs Disagree with Internal Representations of Truthfulness?
+
+    https://arxiv.org/abs/2312.03729
+
+    同11， internal 和 external做classifier不一致
+
+14. Role-Play with Large Language Models
+
+    https://arxiv.org/abs/2305.16367
+
+    大模型只是在角色扮演，大模型，在人前表现得彬彬有礼、知书达理的样子，其实都只是装出来的。事实上，他们并不具有人类的情感，也没什么像人的地方。
    
 
