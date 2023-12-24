@@ -1,6 +1,11 @@
 # LLM & cognitive-psychology Paper List
 
-## LLM consistent with humans
+## 目录
+1. [LLM consistent with humans](#section1)
+2. [LLM inconsistent with humans](#section2)
+3. [Cognitive psychology](#section3) 
+
+## LLM consistent with humans <a name="section1"></a>
 
 1. Avalon's Game of Thoughts: Battle Against Deception through Recursive Contemplation.
   
@@ -117,7 +122,7 @@
     https://arxiv.org/pdf/2310.01714.pdf
 
 
-## LLM inconsistent with humans
+## LLM inconsistent with humans <a name="section2"></a>
 
 1. Large Language Models Fail on Trivial Alterations to Theory-of-Mind Tasks
 
@@ -187,10 +192,39 @@
 
     同11， internal 和 external做classifier不一致
 
+
 14. Role-Play with Large Language Models
 
     https://arxiv.org/abs/2305.16367
 
     大模型只是在角色扮演，大模型，在人前表现得彬彬有礼、知书达理的样子，其实都只是装出来的。事实上，他们并不具有人类的情感，也没什么像人的地方。
    
+
+
+## Cognitive psychology <a name="section3"></a>
+1. A little overview of Cog Psych
+
+2. Using cognitive psychology to understand GPT-3
+
+   https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9963545/
+
+   Using cognitive psychology tools to assess GPT-3’s capabilities of decision-making, information search, deliberation, and causal reasoning
+
+3. An integrated theory of language production and comprehension(detailed)
+
+   https://eprints.gla.ac.uk/82858/1/82858.pdf
+
+   挑战将语言处理视为生产（说话，写作）和理解（听，读）分开活动的传统观点。
+
+4. When Should We Prefer Offline Reinforcement Learning Over Behavioral Cloning?
+
+   https://arxiv.org/abs/2204.05618
+
+   行为克隆和强化学习是学习决策策略的两大主要训练方案。它们在定义目标（损失）时的微妙差异可以在人类的认知和行为过程中找到其根源。
+
+5. Embodied intelligence via learning and evolution
+  
+   https://www.nature.com/articles/s41467-021-25874-z
+
+   虽然进化强化学习能够使多样化的代理形态进化以学习复杂环境中的挑战性移动和操纵任务，我们是否可以类似地探询如何研究LLMs以模仿人类认知过程的进化呢？
 
